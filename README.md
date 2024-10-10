@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TzanisMouflouzis, I am 21 years old and I live in Greece.
+- 👀 I’m interested in all programming languages and computing in general.
+- 🌱 I’m currently studying Computing Science at Mediterranean College and working at Avance Car Rental. 
+- 💞️ I’m looking to collaborate on everything in computing but I do not have a lot of experience. Although, I am willing to learn everything.
+- 📫 How to reach me : Email: tzmouflou@gmail.com, Phone number: +30 6984978470
